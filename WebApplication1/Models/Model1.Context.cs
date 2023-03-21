@@ -7,16 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1
+namespace WebApplication1.Models
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Base_PruebasEntities : DbContext
+    public partial class Base_PruebasEntities1 : DbContext
     {
-        public Base_PruebasEntities()
-            : base("name=Base_PruebasEntities")
+        public Base_PruebasEntities1()
+            : base("name=Base_PruebasEntities1")
         {
         }
     
